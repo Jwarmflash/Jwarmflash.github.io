@@ -2,7 +2,7 @@
 
 ---
 
-[Nigeria Sustainability Project](/pdf/nigeriamarkdown.pdf)
+[Nigeria Sustainability Project](/pdf/NigeriaMarkdown.pdf)
 <img src="images/Idanre-Hills.jpg?raw=true"/>
 
 ---
