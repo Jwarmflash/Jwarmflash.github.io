@@ -3,7 +3,7 @@
 ---
 
 [Nigeria Sustainability Project](/pdf/nigeriamarkdown.pdf)
-<img src="images/Idanre_hills.jpg?raw=true"/>
+<img src="images/Idanre-hills.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
