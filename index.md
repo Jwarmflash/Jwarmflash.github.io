@@ -2,7 +2,7 @@
 
 ---
 
-[Project 1 Title](sample_page)
+[Nigeria Sustainability Project](/pdf/nigeriamarkdown.pdf)
 <img src="images/thumb1.png?raw=true"/>
 
 ---
