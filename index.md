@@ -7,7 +7,7 @@
 
 ---
 [Hotel Machine Learning Analysis](/pdf/MLHotel.pdf)
-<img src="images/bellagio.jpg?raw=true"/>
+<img src="images/bellagio.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
