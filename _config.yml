@@ -3,6 +3,7 @@ logo: "/images/Jake_image.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist, Statistician, Data Engineer <br>
   <a href="https://www.linkedin.com/in/jacobwarmflash/">View My LinkedIn Profile</a> <br>
+  [View My Resume](/pdf/resume.pdf)
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
