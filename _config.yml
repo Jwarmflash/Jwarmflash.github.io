@@ -2,7 +2,9 @@ title: Jake Warmflash # your name (or website title) here
 logo: "/images/Jake_image.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist, Statistician, Data Engineer <br><br>
-  <a href="https://www.linkedin.com/in/jacobwarmflash/">View My LinkedIn Profile</a> <br><br>
+  Contact me: <br>
+  Email: jakecw1999@hotmail.com <br>
+  <a href="https://www.linkedin.com/in/jacobwarmflash/">View My LinkedIn Profile</a> <br>
   <a href="/pdf/resume.pdf">View My Resume</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
