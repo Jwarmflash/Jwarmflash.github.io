@@ -7,7 +7,7 @@ I graduated from Lewis & Clark College in 2021 with a degree in Mathematics. Aft
 
 ## Projects
 <br>
-[Traffic and Weather Project](/pdf/traffic_weather.pdf) <br><br>
+[Traffic and Weather Project](/pdf/traffic_weather_collage.jpg) <br><br>
 For this project, we looked at the relationship between traffic and weather patterns in Portland, Oregon, and San Francisco, California. The project was mainly focused on the Data Engineering aspects, where we employed web scraping using Railway.app, Data cleaning and transformation using the star schema model in PostgreSQL, and exportation for analysis in other tools such as R and Python. I focused on the traffic side of things, pulling data from the TomTom traffic API. A serving API was created to allow users to pull information from the created dataset. Attached are presentation slides showcasing the outline of our process.<br><br>
 <img src="images/rainy_car.png?raw=true"/>
 
