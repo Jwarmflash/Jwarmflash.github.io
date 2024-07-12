@@ -13,17 +13,17 @@ For this project, we looked at the relationship between traffic and weather patt
 
 ---
 [Hotel Machine Learning Analysis](/pdf/MLHotel.pdf) <br><br>
-This project was a machine learning analysis of a hotel customer dataset. Data included 19 columns, some continuous and some discrete, where we predicted whether or not the customer will cancel their reservation. We used multiple machine learning techniques including random forest models, logistic regression, transformers, pipelines, feature selectors, hyperparameter optimization, cluster analysis, and PCA analysis. This was conducted in Python using the Sci-kit learn library.
+This project was a machine learning analysis of a hotel customer dataset. Data included 19 columns, some continuous and some discrete, where we predicted whether or not the customer will cancel their reservation. We used multiple machine learning techniques including random forest models, logistic regression, transformers, pipelines, feature selectors, hyperparameter optimization, cluster analysis, and PCA analysis. This was conducted in Python using the Sci-kit learn library.<br><br>
 <img src="images/bellagio.png?raw=true"/>
 
 ---
 [Kickstarter Statistical Analysis Project](/pdf/kickstarter.pdf) <br><br>
-A statistical analysis on an existing dataset involving over 500000 Kickstarter projects published on the website. Mainly focused on the statistical analysis side, I utilized hypothesis testing including one and two proportion z-tests, residual analysis, time series analysis, and EDA. I explored project category differences, project launch windows and their success rates, and amounts pledged per backer. This project was conducted in R using the tidyverse package.
+A statistical analysis on an existing dataset involving over 500000 Kickstarter projects published on the website. Mainly focused on the statistical analysis side, I utilized hypothesis testing including one and two proportion z-tests, residual analysis, time series analysis, and EDA. I explored project category differences, project launch windows and their success rates, and amounts pledged per backer. This project was conducted in R using the tidyverse package.<br><br>
 <img src="images/kickstarter.jpg?raw=true"/>
 
 ---
 [Nigeria Sustainability Project](/pdf/NigeriaMarkdown.pdf) <br><br>
-This data modeling and visualization project gave a well rounded analysis on Nigeria's current energy offerings, and the potential of the country in shifting to renewable sources. Involved cleaning and transformation of existing dataset, and communicating findings with a non-technical audience. Created in R using the tidyverse package. 
+This data modeling and visualization project gave a well rounded analysis on Nigeria's current energy offerings, and the potential of the country in shifting to renewable sources. Involved cleaning and transformation of existing dataset, and communicating findings with a non-technical audience. Created in R using the tidyverse package. <br><br>
 <img src="images/Idanre-Hills.jpg?raw=true"/>
 
 ---
