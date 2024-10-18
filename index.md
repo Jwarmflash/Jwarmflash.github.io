@@ -7,6 +7,12 @@ I graduated from Lewis & Clark College in 2021 with a degree in Mathematics. Aft
 
 ## Projects
 <br>
+[Air Quality Capstone](/pdf/AQI Capstone Jake Warmflash.pdf) <br><br>
+A final culmination of all skills and technologies learned in my master's program, this project encorporates statistics, machine learning, data engineering, data ethics, and communication. Data is pulled from various locations including multiple government sites such as the EPA, the US Census Bureau, and the US Department of Agricuture. I used this data and analysis to tell a complete story with recommendations for which factors to focus on improving.<br><br>
+<img src="images/prophet_pdx_trend_and_prediction.png?raw=true"/>
+
+
+---
 [Traffic and Weather Project](/pdf/traffic_weather.pdf) <br><br>
 For this project, we looked at the relationship between traffic and weather patterns in Portland, Oregon, and San Francisco, California. The project was mainly focused on the Data Engineering aspects, where we employed web scraping using Railway.app, Data cleaning and transformation using the star schema model in PostgreSQL, and exportation for analysis in other tools such as R and Python. I focused on the traffic side of things, pulling data from the TomTom traffic API. A serving API was created to allow users to pull information from the created dataset. Attached are presentation slides showcasing the outline of our process.<br><br>
 <img src="images/traffic_weather_collage.jpg?raw=true"/>
