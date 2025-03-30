@@ -23,6 +23,11 @@ This project was a machine learning analysis of a hotel customer dataset. Data i
 <img src="images/bellagio.png?raw=true"/>
 
 ---
+[Car Parts PowerBI Dashboard]() <br><br>
+A Microsoft PowerBI Dashboard allowing the viewing of a variety of variable regarding the sales data of five different manufacturing companies. Includes the ability to dive deep into timeline, company, measurement, and more. Built based off a dataset, it encompassed a large amount of skills and techniques useful for a proper visualization.<br><br>
+<img src="images/car_parts_dashboard.png?raw=true"/>
+
+---
 [Kickstarter Statistical Analysis Project](/pdf/kickstarter.html) <br><br>
 A statistical analysis on an existing dataset involving over 500000 Kickstarter projects published on the website. Mainly focused on the statistical analysis side, I utilized hypothesis testing including one and two proportion z-tests, residual analysis, time series analysis, and EDA. I explored project category differences, project launch windows and their success rates, and amounts pledged per backer. This project was conducted in R using the tidyverse package.<br><br>
 <img src="images/kickstarter.jpg?raw=true"/>
