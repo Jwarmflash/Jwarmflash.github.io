@@ -24,7 +24,7 @@ This project was a machine learning analysis of a hotel customer dataset. Data i
 
 ---
 [Car Parts PowerBI Dashboard](/pdf/Car_parts.pbix) <br><br>
-A Microsoft PowerBI Dashboard allowing the viewing of a variety of variable regarding the sales data of five different manufacturing companies. Includes the ability to dive deep into timeline, company, measurement, and more. Built based off a dataset, it encompassed a large amount of skills and techniques useful for a proper visualization.<br><br>
+A Microsoft PowerBI Dashboard allowing the viewing of a variety of variables regarding the sales data of five different manufacturing companies. Includes the ability to dive deep into timeline, company, measurement, and more. Built based off an online dataset, it encompassed a large amount of skills and techniques useful for a proper visualization.<br><br>
 <img src="images/Car_Parts_Dashboard.png?raw=true"/>
 
 ---
