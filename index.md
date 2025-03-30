@@ -23,9 +23,9 @@ This project was a machine learning analysis of a hotel customer dataset. Data i
 <img src="images/bellagio.png?raw=true"/>
 
 ---
-[Car Parts PowerBI Dashboard]() <br><br>
+[Car Parts PowerBI Dashboard](/pdf/Car_parts.pbix) <br><br>
 A Microsoft PowerBI Dashboard allowing the viewing of a variety of variable regarding the sales data of five different manufacturing companies. Includes the ability to dive deep into timeline, company, measurement, and more. Built based off a dataset, it encompassed a large amount of skills and techniques useful for a proper visualization.<br><br>
-<img src="images/car_parts_dashboard.png?raw=true"/>
+<img src="images/Car_Parts_Dashboard.png?raw=true"/>
 
 ---
 [Kickstarter Statistical Analysis Project](/pdf/kickstarter.html) <br><br>
